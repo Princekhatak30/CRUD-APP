@@ -1,0 +1,33 @@
+.home-page{
+   text-align: center;
+}
+.searchbar{
+   margin-left: 15%;
+}
+.adduser{
+    margin-left: 95%;
+    cursor: pointer;
+margin-bottom: 5px;
+}
+tr{
+   margin: 23px;
+}
+.container nav ul li {
+    display: inline;
+    margin-right: 20px;
+    margin: 0 102px;
+    font-weight: bold;
+    
+  }
+  
+  .align-center{
+   text-align: center;
+  }
+  .icon svg{
+   margin:0 23px;
+   cursor: pointer;
+  }
+  .table_scroll{
+   max-height: 400px; /* Set a maximum height for the container */
+   overflow-y: auto
+  }

@@ -1,0 +1,30 @@
+.container{
+    margin-top: 25px;
+   
+}
+
+
+.userprofile {
+    display: flex;
+}
+.edituser{
+    margin-left: 93%;
+}
+
+.left {
+    flex: 1;
+    /* background-color: #f2f2f2; */
+    padding:20px;
+}
+.left img{
+    width: 295px;
+    height: 295px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+.right {
+    flex: 2;
+    background-color: #e0e0e0;
+   
+    padding: 20px;}
